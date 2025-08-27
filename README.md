@@ -1,7 +1,7 @@
 # Responsive-Blog-Website
 An engaging web development project by creating a dynamic blog website using HTML, CSS, and JavaScript. I'd like to emphasize the significance of responsive design. In the project thaings that are used like CSS flexbox and grid layouts, media queries, fluid design that ensures the website's content and layout adjust according to the screen size.
 
-# Output
+# Output:-
 ![Screenshot 2024-10-19 171031](https://github.com/user-attachments/assets/84a8429d-9755-4a76-ae40-239425860d6c)
 ![Screenshot 2024-10-19 171055](https://github.com/user-attachments/assets/d2f805a7-39e3-4323-b6dd-abc984208a86)
 ![Screenshot 2024-10-19 171119](https://github.com/user-attachments/assets/0b8e6c44-2224-4295-ad27-092b059c125a)
